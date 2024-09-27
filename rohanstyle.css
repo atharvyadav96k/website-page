@@ -1,0 +1,289 @@
+
+.container {
+    position: relative;
+    
+    width: 100%;
+    height: 100%;
+}
+
+.firstline {
+    position: absolute;
+    color: white;
+    
+    top: 3%;
+    left: 3%;
+    padding: 10px;
+    
+}
+
+.heading {
+    position: absolute;
+    color: yellow;
+    top: 4%;
+    left: 3%;
+    padding: 10px;
+   
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.amb {
+    position: absolute;
+    color: white;
+    top: 19%;
+    left: 3%;
+    padding: 10px;
+    
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cmt {
+    position: absolute;
+    color: white;
+    top: 21%;
+    left: 3%;
+    padding: 10px;
+  
+    font-size: 13px;
+    font-family: Poppins;
+}
+
+.flr {
+    position: absolute;
+    color: white;
+  
+    top: 25%;
+    left: 3%;
+    padding: 10px;
+    
+    font-size: 24px;
+    font-family: Poppins;
+}
+
+.flw {
+    position: absolute;
+    color: white;
+    top: 29%;
+    left: 3%;
+    padding: 10px;
+   
+    font-size: 13px;
+    font-family: Poppins;
+}
+
+.sqft {
+    position: absolute;
+    color: white;
+    top: 33%;
+    left: 3%;
+    padding: 10px;
+    
+    font-size: 24px;
+    font-family: Poppins;
+}
+
+.Total {
+    position: absolute;
+    color: white;
+    top: 37%;
+    left: 3%;
+    padding: 10px;
+    
+    font-size: 13px;
+    font-family: Poppins;
+}
+
+.firstdrop{
+    position: absolute;
+    top: 46%;
+    left: 4%;
+    
+}
+
+select {
+    width: 200px;
+}
+
+.ttlsqft {
+    position: absolute;
+    color: white;
+    top: 46%;
+    left: 3%;
+    padding: 10px;
+  
+    font-size: 13px;
+    font-family: Poppins;
+}
+
+.second {
+    position: absolute;
+    top: 53%;
+    left: 4%;
+}
+
+.fivesqft {
+    position: absolute;
+    color: white;
+    top: 53%; /* Adjusted for spacing consistency */
+    left: 3%;
+    padding: 10px;
+    
+    font-size: 13px;
+    font-family: Poppins;
+
+}
+
+.third{
+
+    position: absolute;
+    top: 60%;
+    left: 4%;
+
+}
+.kuchto{
+    position: absolute;
+    color: white;
+    top: 60%; /* Adjusted for spacing consistency */
+    left: 3%;
+    padding: 10px;
+    text-align: left;
+    font-size: 13px;
+    font-family: Poppins;
+}
+.firstbox{
+    position: absolute;
+ width: 200px;
+ height: 39px;
+ background-color: transparent;
+ top: 70%;
+ padding-left : 10px;
+ box-sizing:border-box ;
+ left: 4%;
+}
+.firstbox:hover{
+    position: absolute;
+    background-color: white;
+    color: black;
+}
+
+.secondbox{
+ position: absolute;
+ width: 200px;
+ height: 39px;
+ top: 74%;
+ padding-left : 10px;
+ box-sizing:border-box ;
+ left: 4%;
+
+}
+.thirdbox{
+    position: absolute;
+ width: 200px;
+ height: 39px;
+ top: 78%;
+ padding-left : 10px;
+ box-sizing:border-box ;
+ left: 4%;
+}
+.fourthbox{
+    position: absolute;
+ width: 200px;
+ height: 39px;
+ top: 82%;
+ padding-left : 10px;
+ box-sizing:border-box ;
+ left: 4%;
+}
+.fifthbox{
+position: absolute;
+ width: 200px;
+ height: 39px;
+ top: 86%;
+ padding-left : 10px;
+ box-sizing:border-box ;
+ left: 4%;
+}
+.kadplan{
+position: absolute;
+top: 95%;
+left: 4%;
+a{
+text-decoration: none;
+color: white;
+
+padding: 7px 10px;
+border-radius: 4px;  
+font-size: 15px;
+}
+
+
+div{
+display: flex;
+justify-content: space-between;
+margin-top: 20px;
+}
+}
+
+.nevigation{
+
+
+position: absolute;
+top: 95%;
+right: 4%;
+a{
+text-decoration: none;
+color: white;
+
+padding: 7px 10px;
+border-radius: 4px;  
+font-size: 15px;
+}
+
+
+div{
+display: flex;
+justify-content: space-between;
+margin-top: 20px;
+}
+
+
+}
+.button1{
+position: absolute;
+ 
+ height: 39px;
+ bottom: 1%;
+ 
+ 
+ left: 46%;
+}
+button{
+position: absolute;
+
+height: 30px; 
+width: 80px;
+background-color: transparent; 
+color: black;
+}
+.button2{
+position: absolute;
+ 
+ height: 39px;
+ bottom: 1%;
+ 
+ 
+ left: 52%;
+}
+button:hover{
+position: absolute;
+background-color: white;
+color: black;
+}
+.asidetext{
+position: absolute;
+width:200px ;
+top: 70%;
+color: white;
+right: 4%;
+}
